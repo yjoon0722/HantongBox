@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "20200514-hantong-AppleWatch-Tran-1024_x_1024-206_x_206.png",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : "<=145"
+    },
+    {
+      "filename" : "20200514-hantong-AppleWatch-Tran-1024_x_1024-240_x_240.png",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : ">161"
+    },
+    {
+      "filename" : "20200514-hantong-AppleWatch-Tran-1024_x_1024-240_x_240-1.png",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : ">145"
+    },
+    {
+      "filename" : "20200514-hantong-AppleWatch-Tran-1024_x_1024-264_x_264.png",
+      "idiom" : "watch",
+      "scale" : "2x",
+      "screen-width" : ">183"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

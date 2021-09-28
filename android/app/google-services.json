@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "426206987297",
+    "firebase_url": "https://hantongcalcrawl.firebaseio.com",
+    "project_id": "hantongcalcrawl",
+    "storage_bucket": "hantongcalcrawl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426206987297:android:0c49d483a93dfe09eccf60",
+        "android_client_info": {
+          "package_name": "com.heron.hantong_cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426206987297-cv0j2a01aj550jvujud7qnmb90i3toqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1radSOQnQwsizPE4zQbEvWUfoxM4FYpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426206987297-cv0j2a01aj550jvujud7qnmb90i3toqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "426206987297-35qduqu8rgboc6bfbtphfacf55ei55u2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heron.hantongCal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
